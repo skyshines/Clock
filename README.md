@@ -37,5 +37,3 @@ this clock is powered with javascript and its able to return the time and some i
 
 # License
  This Project Is Licensed Under **WTFPL**
-
- WTFPL &copy; [OussamaKamili](https://github.com/oussamakami/javascript-clock/blob/master/LICENSE)
